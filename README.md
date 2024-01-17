@@ -1,0 +1,1 @@
+Proyecto de creación de un dashboard en Power BI para mostrar el análisis de ventas de un minorista de bicicletas, el repositorio contiene tres archivos, uno en formato Pbix que corresponde a la visualización en power BI y dos archivos Pdf , uno con la documentación del proyecto y otro con capturas de los paneles del dashboard
